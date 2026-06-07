@@ -1,0 +1,12 @@
+json                                                                                                                                                                        
+     {                                                                                                                                                                           
+       "version": "0.1.0",                                                                                                                                                       
+       "notes": "Versão inicial do AmigoMecânico - Sistema de gestão para oficinas",                                                                                             
+       "pub_date": "2026-06-09T00:00:00Z",                                                                                                                                       
+       "platforms": {                                                                                                                                                            
+         "windows": {                                                                                                                                                            
+           "url": "https://github.com/SEU-USUARIO/NOME-DO-REPO/releases/download/v0.1.0/placeholder.exe",                                                                        
+           "hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"                                                                                     
+         }                                                                                                                                                                       
+       }                                                                                                                                                                         
+     }  
