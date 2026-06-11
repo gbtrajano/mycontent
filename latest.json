@@ -1,12 +1,11 @@
-                                                                                                                                                                        
-     {                                                                                                                                                                           
-       "version": "0.1.0",                                                                                                                                                       
-       "notes": "Versão inicial do AmigoMecânico - Sistema de gestão para oficinas",                                                                                             
-       "pub_date": "2026-06-09T00:00:00Z",                                                                                                                                       
-       "platforms": {                                                                                                                                                            
-         "windows": {                                                                                                                                                            
-           "url": "https://github.com/SEU-USUARIO/NOME-DO-REPO/releases/download/v0.1.0/placeholder.exe",                                                                        
-           "hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"                                                                                     
-         }                                                                                                                                                                       
-       }                                                                                                                                                                         
-     }  
+{
+  "version": "0.1.1",
+  "notes": "Nova versão do Amigo Mecânico com correções e melhorias.",
+  "pub_date": "2026-06-11T19:00:00Z",
+  "platforms": {
+    "windows": {
+      "url": "https://github.com/gbtrajano/mycontent/releases/download/v0.1.1/AmigoMecanico.exe",
+      "hash": "sha256:536F861A9AF0AFDB593C8D08674E93B872A4555D7C810F8083E6D5B9E29AF541"
+    }
+  }
+}
