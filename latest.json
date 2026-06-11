@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "notes": "Nova versão do Amigo Mecânico com correções e melhorias.",
   "pub_date": "2026-06-11T19:00:00Z",
   "platforms": {
     "windows": {
       "url": "https://github.com/gbtrajano/mycontent/releases/download/v0.1.1/AmigoMecanico.exe",
-      "hash": "sha256:536F861A9AF0AFDB593C8D08674E93B872A4555D7C810F8083E6D5B9E29AF541"
+      "hash": "sha256:042bf755bff990d0f0fca681326834498ac3e064f0442e2c5e3f554977795842"
     }
   }
 }
