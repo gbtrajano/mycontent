@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "notes": "Nova versão do sistema",
   "pub_date": "2026-06-12T13:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/gbtrajano/mycontent/releases/download/v0.2.0/AmigoMecanico_0.2.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWHZRcEovVmxrR3dxMElNVXV1N1ZvQVkxUmZzZUZtUkw1V1lWSkJ0cFR3akxGdkhQeC9RQk5zYk5hNCtMeVpuL3VVWGZ6VEwxT25xNVUyWTVTV3h6NTk0R0RMME5SWXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDA3MDY5CWZpbGU6QW1pZ29NZWNhbmljb18wLjIuMF94NjQtc2V0dXAuZXhlCmdJbHlxNFZYSFJ6ZDUybnBJaGF6bVE0WmtDSVA1RktaK25vOUd1T1VqSG5sbzNnLzZFaHIyQk0wVVdIMmFFRmc2QUtPUEN5bXBYTEs5dlpFLzM0Z0JRPT0K"
+      "url": "https://github.com/gbtrajano/mycontent/releases/download/v.0.2.1/AmigoMecanico_0.2.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWHZRcEovVmxrR3dXUlFFSXZNUFZSYUNyWmtCQUFUelp5d2tWSkFsY1Y0K09EdmpDeDdqSHJia3FCMkVPb3BtY09qWjkwdUhscGF6UkhMbk5JdXQxa0ViM1FqQm13R0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODY2MjIwCWZpbGU6QW1pZ29NZWNhbmljb18wLjIuMV94NjQtc2V0dXAuZXhlCmVRVmN1aWxmdVQ3ZjZoenEzWlFKQ2tYcTNDQm1DZWMxSjBMNFBGQi9lVUFNSTRBd3g5V0NXQmoxUnpRNHdmRGsxRlJNZFZheWpDZFlmTk1IY3R2ZUF3PT0K"
     }
   }
 }
