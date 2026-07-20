@@ -6,7 +6,10 @@
     "windows-x86_64": {
       "url": "https://github.com/gbtrajano/mycontent/releases/download/v0.2.3/AmigoMecanico_0.2.3_x64-setup.exe",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWHZRcEovVmxrRzdYTjBXYzJFY1pDbEZtYzZGT1NBdXBNUTZRbzh1bmhnUjFhY21DV1dsOXZEaVphMlJSZnlPWVR3cVVsSHdWdENvemsyZXlJUHJQY000RUFWVkdIc0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTIyMzUwCWZpbGU6QW1pZ29NZWNhbmljb18wLjIuM194NjQtc2V0dXAuZXhlCnR6U1V3eWhHVlNCVk1HTTU2azR4RzhMeldmZ2diNEM1R3p3SCtMNXlyeVNYaEFSbjJBZVJHVS9sYStEaUVCUUdTVzlKUzkxMm1oQlpYdjdLSVpHc0RBPT0K"
+    },
+    "windows-i686": {
+      "url": "https://github.com/gbtrajano/mycontent/releases/download/v0.2.3/AmigoMecanico_0.2.3_x86-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWHZRcEovVmxrRzVldGpHVWszL2l2a1dJTUVTVlhrMEg2dDJPTGFlUGdVQ0hzOUlLVDNPZVFpZ0svVXk2OHREaTlTei8vYjJTZWtEZWdtS0tnVDRWa3hqRXZlRU9kTkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTIyMjI1CWZpbGU6QW1pZ29NZWNhbmljb18wLjIuM194ODYtc2V0dXAuZXhlCnM0dWpSb1diVmdUdDlVeWlUVWhHZnJDd0ZZNDNEMk5zR2lQenVML2JqZkd6Mlp6eGM4OTJoYjN0bGladVN2Mlo1dWxxSy9sM3A5WDJVM290WnpnOEF3PT0K"
     }
   }
 }
-
